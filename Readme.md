@@ -37,14 +37,17 @@ _Below is an example of how you can instruct your audience on installing and set
 1. Get Power Bi desktop app for your operating system [https://powerbi.microsoft.com/en-au/desktop/](https://powerbi.microsoft.com/en-au/desktop/)
 2. Clone the repo
    ```sh
-   git clone https://github.com/rbrahul994/#name.git
+   git clone https://github.com/rbrahul994/Covid-19.git
    ```
 
 <!-- USAGE EXAMPLES -->
 ## Usage
+Git Commit History for code
+![Cookie Profit Image](https://github.com/rbrahul994/Covid-19.git/blob/main/screenshot/git_history.png?raw=true)
+<br>
+Validation curve
 
-![Cookie Profit Image](https://github.com/rbrahul994/#name.git/blob/main/screenshot/Report.png?raw=true)
-
+![Cookie Profit Image](https://github.com/rbrahul994/Covid-19.git/blob/main/screenshot/vaildation.png?raw=true)
 <!-- ROADMAP -->
 ## Roadmap
 
@@ -75,7 +78,7 @@ Revathi Nambiar Chengat
 
 Rahul Bhandari- rbrahul994@gmail.com
 
-Project Link: [https://github.com/rbrahul994/#name.get](https://github.com/rbrahul994/#name.git)
+Project Link: [https://github.com/rbrahul994/Covid-19.get](https://github.com/rbrahul994/Covid-19.git)
 
 
 
