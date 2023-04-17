@@ -43,11 +43,11 @@ _Below is an example of how you can instruct your audience on installing and set
 <!-- USAGE EXAMPLES -->
 ## Usage
 Git Commit History for code
-![Cookie Profit Image](https://github.com/rbrahul994/Covid-19.git/blob/main/screenshots/git_history.png?raw=true)
+![Git History](https://github.com/rbrahul994/Covid-19.git/screenshots/git_history.png?raw=true)
 <br>
 Validation curve
 
-![Cookie Profit Image](https://github.com/rbrahul994/Covid-19.git/blob/main/screenshots/vaildation.png?raw=true)
+![Validation Curve](https://github.com/rbrahul994/Covid-19.git/screenshots/vaildation.png?raw=true)
 <!-- ROADMAP -->
 ## Roadmap
 
