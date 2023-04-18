@@ -82,7 +82,7 @@ GitHub: Ashley-J-George<br>
 Divya Wilson - wilsonpj68@gmail.com<br>
 Revathi - revathisujayan@gmail.com
 
-Project Link: [https://github.com/rbrahul994/Covid-19.get](https://github.com/rbrahul994/Covid-19.git)
+Project Link: [https://github.com/rbrahul994/Covid-19.git](https://github.com/rbrahul994/Covid-19.git)
 
 
 
