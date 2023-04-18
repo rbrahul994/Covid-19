@@ -77,6 +77,8 @@ Revathi Nambiar Chengat
 ## Contact
 
 Rahul Bhandari- rbrahul994@gmail.com
+email: ashleygeorge1999@gmail.com
+GitHub: Ashley-J-George
 
 Project Link: [https://github.com/rbrahul994/Covid-19.get](https://github.com/rbrahul994/Covid-19.git)
 
