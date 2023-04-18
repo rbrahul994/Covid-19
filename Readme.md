@@ -76,7 +76,7 @@ Revathi Nambiar Chengat
 <!-- CONTACT -->
 ## Contact
 
-Rahul Bhandari- rbrahul994@gmail.com
+Rahul Bhandari- rbrahul994@gmail.com<br>
 email: ashleygeorge1999@gmail.com
 GitHub: Ashley-J-George
 
